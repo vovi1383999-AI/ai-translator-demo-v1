@@ -5,7 +5,7 @@ from groq import Groq
 st.set_page_config(page_title="AI Translator - Demo", page_icon="🤖")
 
 st.title("🤖 AI Translator Siêu Tốc")
-st.write("Chạy trên Groq Llama 3 - Xây dựng bởi [Tên Bạn]")
+st.write("Chạy trên Groq Llama 3 - Xây dựng bởi HUỲNH THIẾU DŨNG")
 
 # 2. Sidebar để nhập API Key (Để bảo mật, không hardcode key vào code)
 with st.sidebar:
